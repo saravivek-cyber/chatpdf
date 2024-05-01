@@ -26,4 +26,15 @@ To run this app locally, follow these steps:
 
    ```bash
    git clone https://github.com/saravivek-cyber/chatpdf.git
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+3.Set up environment variables:Create a .env file in the root directory of the project and add the following:
+
+   ```bash
+    HF_TOKEN=your_hugging_face_token_here
+
+
+
    
