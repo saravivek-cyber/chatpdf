@@ -25,5 +25,5 @@ To run this app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/saravivek-cyber/your-repo-name.git
+   git clone https://github.com/saravivek-cyber/chatpdf.git
    
