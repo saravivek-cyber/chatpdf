@@ -35,7 +35,7 @@ To run this app locally, follow these steps:
    ```bash
     HF_TOKEN=your_hugging_face_token_here
 
-4.Run the app:
+4. Run the app:
 
    ```bash
-     streamlit run app.py
+   streamlit run app.py
