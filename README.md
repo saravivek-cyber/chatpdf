@@ -8,7 +8,8 @@ This app allows you to upload a PDF file and ask questions about its content. Th
 - Upload a PDF file
 - Ask questions about the content of the PDF
 - View answers provided by the app
-##Hugging face space for demo (https://huggingface.co/spaces/vivekvar/chatpdf)
+
+## Hugging face space for demo (https://huggingface.co/spaces/vivekvar/chatpdf)
 
 ## How to Use
 
